@@ -1,2 +1,5 @@
 
 Ove je tekst 3. fajla.
+
+
+Izmena ovog fjala na granu skinutu sa remota na lokal p modifikovanu i vracenu
